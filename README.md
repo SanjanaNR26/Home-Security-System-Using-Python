@@ -1,12 +1,19 @@
 **Motion Detection + Email Alert**
+
 Lightweight motion detector using OpenCV that sends an email alert (SMTP) when motion is detected.
 
 **Features**
+
 Detects motion by frame-differencing and contour area thresholding,
+
 Draws bounding boxes on detected motion in a live window,
+
 Sends email alerts (SMTP) in background threads to avoid blocking the UI,
+
 Configurable via environment variables
+
 **Requirements**
+
 Python 3.8+,
 pip packages:
 opencv-python,
