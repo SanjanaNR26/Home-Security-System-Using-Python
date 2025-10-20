@@ -58,10 +58,6 @@ $env:CAM_INDEX = "0"
 
 Important: for Gmail, create an App Password (recommended) instead of using your account password.
 
-
-<img width="1154" height="738" alt="image" src="https://github.com/user-attachments/assets/b43738c7-b3b6-42f3-895b-e851dd6bcf32" />
-
-
 Troubleshooting
 
 "Camera index X cannot be opened": try a different CAM_INDEX (1, 2) or ensure your camera is not used by another app.
@@ -79,3 +75,7 @@ Security notes
 Do not hard-code credentials in the script. Prefer environment variables or a secure secret store.
 
 Use app-specific passwords where possible.
+
+
+<img width="1154" height="738" alt="image" src="https://github.com/user-attachments/assets/4caa58af-d0db-4cda-9c28-69f934581d44" />
+
