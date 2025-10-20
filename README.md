@@ -75,7 +75,3 @@ Security notes
 Do not hard-code credentials in the script. Prefer environment variables or a secure secret store.
 
 Use app-specific passwords where possible.
-
-If you want any of the README sections expanded or want an example systemd/task scheduler entry (Windows Task Scheduler) to auto-run the script, say which and I will add it.
-
-GPT-5 mini • 1x
